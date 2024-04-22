@@ -1,4 +1,4 @@
-<h1 align="center">Likhitha Gupta Thallapally - Data Science Portfolio</h1>
+<h1 align="center">Likhitha Gupta Thallapally</h1>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Data%20Scientist-Data%20Analyst-Data%20Engineer-blueviolet?style=flat-square&logo=github">
@@ -19,9 +19,9 @@
 - **Machine Learning:** Tensorflow, PyTorch, Scikit-Learn
 
 ## 📊 Projects
-- **Drivable Road Region Detection:** Implemented real-time drivable road detection using ResNet18 and transfer learning. [See More](#)
-- **Stroke Analysis:** Developed a predictive model with 80% accuracy to forecast stroke likelihood. [See More](#)
-- **Expense Management System:** Created an intuitive system for managing expenses with a high completion rate. [See More](#)
+- **Drivable Road Region Detection:** Implemented real-time drivable road detection using ResNet18 and transfer learning.
+- **Stroke Analysis:** Developed a predictive model with 80% accuracy to forecast stroke likelihood.
+- **Expense Management System:** Created an intuitive system for managing expenses with a high completion rate.
 
 ## 🚀 Certifications
 <p align="center">
